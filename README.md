@@ -15,5 +15,9 @@ This Power BI dashboard visualizes the career statistics of a cricketer. It help
 - **Power BI** for dashboard development.
 
 ## 📸 Preview
-
+**ODI Dashboard Screenshot**
 ![Dashboard Screenshot](screenshots/ODI.png)
+**T20 Dashboard Screenshot**
+![Dashboard Screenshot](screenshots/T20.png)
+**TEST Dashboard Screenshot**
+![Dashboard Screenshot](screenshots/TEST.png)
